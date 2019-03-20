@@ -1,0 +1,24 @@
+Metadata-Version: 1.2
+Name: projectstarter
+Version: 0.4.2
+Summary: UNKNOWN
+Home-page: https://github.com/fjy202/projectstarter/
+Author: fjy
+Author-email: 2589660302@qq.com
+Maintainer: fjy
+Maintainer-email: 2589660302@qq.com
+License: BSD License
+Description: This package will build a Python package for U.
+Platform: all
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Software Development :: Libraries
